@@ -1,0 +1,12 @@
+repositorio para instalar oracle-java7-installer:
+sudo apt-add-repository ppa:webupd8team/java
+
+
+Paquetes y programas instalados:
+oracle-java7-installer (jdk)
+monodevelop-nunit
+monodevelop-versioncontrol
+monodoc-browser
+monodoc-gtk2.0-manual
+monodoc-mysql-manual
+monodoc-nunit-manual
